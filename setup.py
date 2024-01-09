@@ -81,7 +81,6 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     url="https://github.com/users/mustyilmaz17/projects/3",
-    keywords="python tkinter curency variable",
     packages=setuptools.find_packages(),
     install_requires=["tkinter"],
     python_requires=">=3.7",
